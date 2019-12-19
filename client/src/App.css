@@ -24,6 +24,10 @@
   color: white;
 }
 
+.navbar-dark {
+  background-color: black;
+}
+
 .App-link {
   color: #61dafb;
 }
